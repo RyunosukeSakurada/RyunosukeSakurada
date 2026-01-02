@@ -1,41 +1,14 @@
 # 👋 Hi there! I'm Ryuunosuke
 
-## 🌟 About Me
+## About Me
 
-- Currently working on: **Creating innovative solutions**
-- Learning: **Cloud Architecture**
-- Ask me about: **Web Development**
-- How to reach me: **[sk.ryunosuke@gmail.com](mailto:sk.ryunosuke@gmail.com)**
+- ポートフォリオ: [ronskrd.com](https://ronskrd.com)
+- ソフトウェアエンジニア（Web / Full-stack）
+- 興味分野：Webアプリ開発 / アーキテクチャ設計 / 個人開発 / 製造業システム開発
+- 好きなこと：設計を考えること、作って試すこと
+- 連絡先: **[sk.ryunosuke@gmail.com](mailto:sk.ryunosuke@gmail.com)**
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -46,20 +19,10 @@
 </div>
 
 
-## 🌈 Most Used Languages
+## Most Used Languages
 
 <div align="center">
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyunosukeSakurada&layout=compact&theme=radical&langs_count=8)
   
-</div>
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 </div>
